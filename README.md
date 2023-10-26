@@ -3,7 +3,7 @@
 <img  width="400" height="400"  alt="Screen Shot 1444-06-17 at 9 20 35 AM"  src=Q1.png>
 
 - Insert at least 5 records into the BooksAuthors table.
-<img  width="400" height="400"  alt="Screen Shot 1444-06-17 at 9 20 35 AM"  src=Q2.png>
+<img  width="400" height="400"  alt="Screen Shot 1444-06-17 at 9 20 35 AM"  src=q2.png>
 
 - Write a statement that will select the Country column from the Authors table.
 <img  width="400" height="400"  alt="Screen Shot 1444-06-17 at 9 20 35 AM"  src=Q3.png>
