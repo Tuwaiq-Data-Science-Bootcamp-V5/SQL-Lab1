@@ -1,8 +1,8 @@
 # SQL-Lab1
 - Create a table "BooksAuthors" containing two fields (AuthorId, BookId)
-<img src= "P1.png"/>
+<img src= "p1.png"/>
 - Insert at least 5 records into the BooksAuthors table.
-<img src= "P1.png"/>
+<img src= "P2.png"/>
 - Write a statement that will select the Country column from the Authors table.
 <img src= "P3.png"/>
 - Select all the different values from the Country column in the Authors table.
